@@ -23,10 +23,10 @@ The only dependency for this project is `rapidfuzz`.
 
 ## How to Run
 
-1.  Navigate to the directory where the `main.py` file is located.
+1.  Navigate to the directory where the `Similar_Name_Finder.py` file is located.
 2.  Run the script using the following command:
     ```bash
-    python main.py
+    python Similar_Name_Finder.py
     ```
 3.  You will be prompted to enter a name. Type a name and press Enter.
 4.  The script will then display the best match and other similar names with their similarity scores.
