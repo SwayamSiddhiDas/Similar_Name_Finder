@@ -11,8 +11,8 @@ The only dependency for this project is `rapidfuzz`.
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://your-repository-url.git
-    cd your-project-directory
+    git clone https://github.com/SwayamSiddhiDas/Similar_Name_Finder.git
+    cd Similar_Name_Finder
     ```
 
 2.  **Install the dependencies:**
